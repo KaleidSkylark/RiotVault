@@ -22,7 +22,7 @@ RiotVault is a lightweight Windows desktop application that lets you manage and 
 
 | Package | Description |
 |---------|-------------|
-| [**RiotVault-Setup-x64-1.0.0.exe**](https://github.com/KaleidSkylark/RiotVault/releases/latest) | Recommended. Installer with optional desktop shortcut and auto-start. Requires [.NET 8 Desktop Runtime (x64)](https://dotnet.microsoft.com/download/dotnet/8.0). |
+| [**RiotVault-Setup-x64-1.0.2.exe**](https://github.com/KaleidSkylark/RiotVault/releases/latest) | Recommended. Installer with optional desktop shortcut and auto-start. Requires [.NET 8 Desktop Runtime (x64)](https://dotnet.microsoft.com/download/dotnet/8.0). |
 | [**RiotVault-Portable.exe**](https://github.com/KaleidSkylark/RiotVault/releases/latest) | Self-contained, no installation needed. Run from any folder. No .NET runtime required. |
 
 > Download the latest build from the [**Releases**](https://github.com/KaleidSkylark/RiotVault/releases/latest) page.
