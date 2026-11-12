@@ -22,22 +22,22 @@ RiotVault is a lightweight Windows desktop application that lets you manage and 
 
 | Package | Description |
 |---------|-------------|
-| **RiotVault-Setup-x64.exe** | Recommended. Installer with optional desktop shortcut and auto-start. Requires [.NET 8 Desktop Runtime (x64)](https://dotnet.microsoft.com/download/dotnet/8.0). |
-| **RiotVault-Portable.exe** | Self-contained, no installation needed. Run from any folder. No .NET runtime required. |
+| [**RiotVault-Setup-x64-1.0.0.exe**](https://github.com/KaleidSkylark/RiotVault/releases/latest) | Recommended. Installer with optional desktop shortcut and auto-start. Requires [.NET 8 Desktop Runtime (x64)](https://dotnet.microsoft.com/download/dotnet/8.0). |
+| [**RiotVault-Portable.exe**](https://github.com/KaleidSkylark/RiotVault/releases/latest) | Self-contained, no installation needed. Run from any folder. No .NET runtime required. |
 
-> Download both from the [**Releases**](../../releases) page.
+> Download the latest build from the [**Releases**](https://github.com/KaleidSkylark/RiotVault/releases/latest) page.
 
 ---
 
 ## 🚀 Getting Started
 
 ### Portable
-1. Download `RiotVault-Portable.exe` from [Releases](../../releases).
+1. Download `RiotVault-Portable.exe` from [Releases](https://github.com/KaleidSkylark/RiotVault/releases/latest).
 2. Place it anywhere you like (e.g. `C:\Tools\RiotVault\`).
 3. Double-click to launch. The vault and settings are stored in `%LOCALAPPDATA%\RiotVault`.
 
 ### Setup Installer
-1. Download `RiotVault-Setup-x64.exe` from [Releases](../../releases).
+1. Download `RiotVault-Setup-x64-1.0.0.exe` from [Releases](https://github.com/KaleidSkylark/RiotVault/releases/latest).
 2. Run the installer. It will check for the .NET 8 Desktop Runtime and prompt you to download it if missing.
 3. Optionally enable **"Start with Windows"** during setup for automatic background launch.
 
